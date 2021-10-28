@@ -1,4 +1,6 @@
-Predicting a Persons Life Satisfaction Score 
+**Predicting a Persons Life Satisfaction Score** 
+
+Medium Article: https://caelonsmith.medium.com/5-steps-to-improve-life-satisfaction-b060861038c3
 
 Dataset: 
 - Title: Wellbeing and Lifestyle Satisfaction: 
